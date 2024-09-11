@@ -1,5 +1,4 @@
-# Algo1Camejo
-## Algoritmos y Programación I - Cátedra Camejo
+# Algoritmos y Programación I - Cátedra Camejo
 
 ### Cuatrimestre de Cursada
 1° Cuatrimestre 2022
